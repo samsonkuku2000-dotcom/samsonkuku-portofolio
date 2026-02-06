@@ -48,14 +48,10 @@ header {
   border-bottom: 1px solid var(--border);
   box-shadow: 0 6px 18px rgba(0,0,0,0.1);
 }
-
 header h1 {
   color: var(--primary);
   font-size: 1.6rem;
   font-weight: 700;
-  text-shadow:
-    1px 1px orange,
-    2px 2px darkorange;
 }
 
 
@@ -439,3 +435,4 @@ footer {
     font-size: 0.8rem;
   }
 }
+
